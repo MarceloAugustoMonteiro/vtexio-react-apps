@@ -2,7 +2,7 @@
 
 Projeto modal desenvolvido em React + TypeScript para aplicação em e-commerce VTEXIO.
 
-Este projeto se encontra dentro da pasta "React" -> arquivo "Modal.tsx"
+:rotating_light: Este projeto se encontra dentro da pasta "React" :arrow_right: arquivo "Modal.tsx"
 
 ![Modal](https://cdn.discordapp.com/attachments/889854314095452201/910647713169813514/Screenshot_1.png)
 Demonstração modal sobrepondo a home-page.
