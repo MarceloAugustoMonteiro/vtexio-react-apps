@@ -1,6 +1,6 @@
 # Projeto 01 - Modal
 
-Projeto modal desenvolvido em React + TypeScript para aplicação em e-commerce VTEXIO.
+Projeto modal setando cookies desenvolvido em React + TypeScript para aplicação em e-commerce VTEXIO.
 
 :rotating_light: Este projeto se encontra dentro da pasta "React" :arrow_right: arquivo "Modal.tsx"
 
