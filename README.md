@@ -62,15 +62,16 @@ Criamos alguns schemas para facilitar a manipulação do cliente em nosso modal 
 
 ## Apps extras
 
-01:
+:one:
 
 Consumindo uma API externa com Axios.
 
 Axios é um cliente HTTP baseado em Promises para fazer requisições.
 
 :rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "Api.tsx"
+<br />
 
-02:
+:two:
 
 Criando flags de categorias específicas na página de produto.
 
@@ -79,8 +80,9 @@ Criando flags de categorias específicas na página de produto.
 ![Flags](https://cdn.discordapp.com/attachments/900704871517409340/927328793696292914/pdp.png)
 
 Flags: blusas, novidade e inovação sendo demonstradas específicamente na categoria "Woman".
+<br />
 
-03:
+:three:
 
 Fazendo uma requisão com axios para consultar o ID e SKU do produto no MasterData da VTEX.
 
