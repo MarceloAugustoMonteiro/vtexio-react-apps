@@ -5,6 +5,7 @@ Projeto modal setando cookies. Desenvolvido em React + TypeScript para aplicaç�
 :rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "Modal.tsx"
 
 ![Modal](https://cdn.discordapp.com/attachments/889854314095452201/910647713169813514/Screenshot_1.png)
+
 Demonstração modal sobrepondo a home-page.
 
 #### CSS HANDLES
@@ -86,4 +87,5 @@ Fazendo uma requisão com axios para consultar o ID e SKU do produto no MasterDa
 :rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "ApiSearchProduct.tsx"
 
 
-**Autor: Marcelo A. Monteiro**
+
+**Autor: Marcelo A. Monteiro** :pencil2:
