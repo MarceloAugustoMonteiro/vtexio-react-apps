@@ -1,4 +1,4 @@
-# Projeto Modal
+# Projeto 01 - Modal
 
 Projeto modal desenvolvido em React + TypeScript para aplicação em e-commerce VTEXIO.
 
