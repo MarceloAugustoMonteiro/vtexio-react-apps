@@ -75,7 +75,7 @@ Criando flags de categorias específicas na página de produto.
 
 :rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "ApiProductContext.tsx"
 
-![Flags](https://cdn.discordapp.com/attachments/900704871517409340/927324473026297856/pdp.png)
+![Flags](https://cdn.discordapp.com/attachments/900704871517409340/927328793696292914/pdp.png)
 Demonstação das flags: blusas, novidade e inovação sendo demonstradas específicamente na categoria "Woman".
 
 03:
