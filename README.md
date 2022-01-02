@@ -1,4 +1,4 @@
-# Projeto 01 - Modal
+# Projeto Modal + apps extras
 
 Projeto modal setando cookies desenvolvido em React + TypeScript para aplicação em e-commerce VTEXIO.
 
