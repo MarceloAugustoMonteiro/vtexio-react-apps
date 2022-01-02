@@ -1,6 +1,6 @@
 # Projeto Modal + apps extras
 
-Projeto modal setando cookies desenvolvido em React + TypeScript para aplicação em e-commerce VTEXIO.
+Projeto modal setando cookies. Desenvolvido em React + TypeScript para aplicação em e-commerce VTEXIO.
 
 :rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "Modal.tsx"
 
