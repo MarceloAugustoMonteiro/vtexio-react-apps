@@ -86,6 +86,6 @@ Fazendo uma requisão com axios para consultar o ID e SKU do produto no MasterDa
 
 :rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "ApiSearchProduct.tsx"
 
-
+<br /> <br />
 
 **Autor: Marcelo A. Monteiro** :pencil2:
