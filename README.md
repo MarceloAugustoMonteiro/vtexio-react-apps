@@ -59,5 +59,30 @@ Desenvolvemos aqui o "esqueleto" de nosso modal com suas classes para aplicaçã
 
 Criamos alguns schemas para facilitar a manipulação do cliente em nosso modal diretamente pelo site editor da VTEX. Através do site editor o cliente poderá fazer a alteração do título, cookie e imagem de nosso modal.
 
+## Apps extras
+
+01:
+
+Consumindo uma API externa com Axios.
+
+Axios é um cliente HTTP baseado em Promises para fazer requisições.
+
+:rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "Api.tsx"
+
+02:
+
+Criando flags de categorias específicas na página de produto.
+
+:rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "ApiProductContext.tsx"
+
+![Flags](https://cdn.discordapp.com/attachments/900704871517409340/927324473026297856/pdp.png)
+Demonstação das flags: blusas, novidade e inovação sendo demonstradas específicamente na categoria "Woman".
+
+03:
+
+Fazendo uma requisão com axios para consultar o ID e SKU do produto no MasterData da VTEX.
+
+:rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "ApiSearchProduct.tsx"
+
 
 **Autor: Marcelo A. Monteiro**
