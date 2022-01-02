@@ -1,0 +1,1 @@
+declare '*.vtex.format-currency';

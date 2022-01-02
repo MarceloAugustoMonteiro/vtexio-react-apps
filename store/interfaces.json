@@ -1,0 +1,22 @@
+{
+  "modal-page": {
+    "component": "Modal",
+    "composition": "children",
+    "allowed": "*"
+  },
+  "api-page": {
+    "component": "Api",
+    "composition": "children",
+    "allowed": "*"
+  },
+  "api-searh-product": {
+    "component": "ApiSearchProduct",
+    "composition": "children",
+    "allowed": "*"
+  },
+  "api-product-context": {
+    "component": "ApiProductContext",
+    "composition": "children",
+    "allowed": "*"
+  }
+}

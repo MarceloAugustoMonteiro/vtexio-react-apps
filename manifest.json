@@ -1,0 +1,19 @@
+{
+  "vendor": "vendor-de-sua-loja",
+  "name": "marcelo",
+  "version": "0.0.2",
+  "title": "Custom-react",
+  "description": "apps-customizados",
+  "defaultLocale": "pt-BR",
+  "builders": {
+    "store": "0.x",
+    "react": "3.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x",
+    "vtex.css-handles": "0.x",
+    "vtex.product-context": "0.x",
+    "vtex.format-currency": "0.x"
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
