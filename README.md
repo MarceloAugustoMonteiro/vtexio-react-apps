@@ -4,7 +4,7 @@ Projeto modal setando cookies. Desenvolvido em React + TypeScript para aplicaç�
 
 :rotating_light: Este projeto se encontra dentro da pasta "React" arquivo :arrow_right: "Modal.tsx"
 
-![Modal](https://cdn.discordapp.com/attachments/889854314095452201/910647713169813514/Screenshot_1.png)
+![Modal](https://media.discordapp.net/attachments/900704871517409340/940344971976921118/modal-git-hub.png?width=976&height=473)
 
 Demonstração modal sobrepondo a home-page.
 
